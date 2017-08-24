@@ -1,6 +1,6 @@
 The Clear BSD License
 
-Copyright (c) 2017-Present, Papon Chaisrisookumporn
+Copyright (c) 2017-Present, Papon Chaisrisookumporn (Theminer3746)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
