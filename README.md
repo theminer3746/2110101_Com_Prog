@@ -3,3 +3,5 @@ All files in this repository serve as answers to 2110101 Computer Programming cl
 
 # License
 See [LICENSE.md](LICENSE.md)
+
+### In code, we trust
