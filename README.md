@@ -4,7 +4,7 @@ All files in this repository serve as answers to 2110101 Computer Programming cl
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 # Branch
-Master - Current stable branch (Grading of any file SHOULD return 100 points).
+Master - Current stable branch (Grading of any file in this branch SHOULD return 100 points).
 
 Development - Current work in progress branch.
 
