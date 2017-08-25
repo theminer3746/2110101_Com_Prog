@@ -1,11 +1,13 @@
+from math import sqrt, ceil
+
 n = int(input())
 
 x_list = list()
 y_list = list()
 
 # Retrieve all possible x, y combination
-for x in range(n):
-    for y in range(n):
+for x in range(ceil(sqrt(n)) + 1):
+    for y in range(ceil(sqrt(n)) + 1):
         if x**2 + y**2 == n:
             x_list.append(x)
             y_list.append(y)
