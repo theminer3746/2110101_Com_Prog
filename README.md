@@ -5,6 +5,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 # Branch
 Master - Current stable branch (Grading of any file SHOULD return 100 points).
+
 Development - Current work in progress branch.
 
 # License
