@@ -33,3 +33,4 @@ if d < min :
     min = d
 
 print(min, max)
+
