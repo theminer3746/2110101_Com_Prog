@@ -1,7 +1,7 @@
 a1 = 'a'
 a2 = 'p'
 a3 = 'j'
-a4 = 'rstu'
+a4 = 'rs'
 a5 = 'v'
 answers = [ a1, a2, a3, a4, a5 ]
 n = int(input())
