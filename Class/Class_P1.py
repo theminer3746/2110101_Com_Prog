@@ -33,4 +33,7 @@ complex2.conjugate()
 print(complex2, end=' ')
 print(complex2.absolute())
 
+
+complex1.conjugate()
+complex2.conjugate()
 print(complex1.add(complex2))
