@@ -13,7 +13,7 @@ class ComplexNum:
         return round(ab, 2)
 
     def add(self, other):
-        return ComplexNum(self.re+other.re, self.im+other.im)
+        return ComplexNum(self.re + other.re, self.im + other.im)
 
     def conjugate(self):
         self.im *= -1
